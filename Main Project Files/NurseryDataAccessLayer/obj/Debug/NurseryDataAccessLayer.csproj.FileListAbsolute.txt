@@ -1,0 +1,6 @@
+D:\C SHARP\HomePage\NurseryDataAccessLayer\bin\Debug\NurseryDataAccessLayer.dll
+D:\C SHARP\HomePage\NurseryDataAccessLayer\bin\Debug\NurseryDataAccessLayer.pdb
+D:\C SHARP\HomePage\NurseryDataAccessLayer\obj\Debug\NurseryDataAccessLayer.csproj.AssemblyReference.cache
+D:\C SHARP\HomePage\NurseryDataAccessLayer\obj\Debug\NurseryDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\C SHARP\HomePage\NurseryDataAccessLayer\obj\Debug\NurseryDataAccessLayer.dll
+D:\C SHARP\HomePage\NurseryDataAccessLayer\obj\Debug\NurseryDataAccessLayer.pdb

@@ -1,0 +1,27 @@
+C:\Users\User\source\repos\The Nursery Management System\bin\Debug\The Nursery Management System.exe.config
+C:\Users\User\source\repos\The Nursery Management System\bin\Debug\The Nursery Management System.exe
+C:\Users\User\source\repos\The Nursery Management System\bin\Debug\The Nursery Management System.pdb
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The Nursery Management System.csprojAssemblyReference.cache
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The_Nursery_Management_System.Form1.resources
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The_Nursery_Management_System.Properties.Resources.resources
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The Nursery Management System.csproj.GenerateResource.cache
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The Nursery Management System.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The Nursery Management System.exe
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The Nursery Management System.pdb
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The_Nursery_Management_System.Log_in.resources
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The_Nursery_Management_System.Forgot_Password.resources
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The_Nursery_Management_System.DashboardAdmin.resources
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The_Nursery_Management_System.DashboardEmployee.resources
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The_Nursery_Management_System.About_Oxygen.resources
+C:\Users\User\source\repos\The Nursery Management System\bin\Debug\NurseryDataAccessLayer.dll
+C:\Users\User\source\repos\The Nursery Management System\bin\Debug\NurseryDataAccessLayer.pdb
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The_Nursery_Management_System.Customer.resources
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The_Nursery_Management_System.Employee.resources
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The_Nursery_Management_System.Order.resources
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The_Nursery_Management_System.Plant.resources
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The Nursery Management System.csproj.CopyComplete
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The_Nursery_Management_System.Stats.resources
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The_Nursery_Management_System.AboutMe.resources
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The_Nursery_Management_System.CustomerEmployee.resources
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The_Nursery_Management_System.OrderEmployee.resources
+C:\Users\User\source\repos\The Nursery Management System\obj\Debug\The_Nursery_Management_System.PlantEmployee.resources
