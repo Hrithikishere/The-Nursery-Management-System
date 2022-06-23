@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Nursery Management System", "The Nursery Management System.csproj", "{13A214DF-A149-4E4A-8AEE-C88EA9E09D3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NurseryDataAccessLayer", "..\..\..\OneDrive\Coding\C#\NurseryManegmentSystem\NurseryDataAccessLayer\NurseryDataAccessLayer.csproj", "{960B7808-57A3-4255-BD8D-9A3EFA61C761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13A214DF-A149-4E4A-8AEE-C88EA9E09D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A214DF-A149-4E4A-8AEE-C88EA9E09D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A214DF-A149-4E4A-8AEE-C88EA9E09D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A214DF-A149-4E4A-8AEE-C88EA9E09D3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{960B7808-57A3-4255-BD8D-9A3EFA61C761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960B7808-57A3-4255-BD8D-9A3EFA61C761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960B7808-57A3-4255-BD8D-9A3EFA61C761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960B7808-57A3-4255-BD8D-9A3EFA61C761}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04B003C4-9115-4EC4-9307-45C834A53521}
+	EndGlobalSection
+EndGlobal
